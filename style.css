@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+body {
+	
+}
+
+#main {
+	width:800px;
+	margin: 100px auto 0px auto;
+	left: -400px;
+	text-align: center;	
+}
+
+#titel {
+	font: normal 28px georgia;
+	margin-bottom: 40px;
+}
+
+#content {
+	font: normal 14px arial;
+}
+
+.email {
+	font-size: 10px;
+	font-style: italic;
+}
