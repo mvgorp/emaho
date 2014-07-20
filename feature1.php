@@ -14,4 +14,4 @@ echo "Hello3";
 
 echo "Feature3";
 
-echo "Feature3-2"; echo "change 2";
+echo "Feature3-2"; echo "change 3";
